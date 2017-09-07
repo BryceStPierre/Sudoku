@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="title_activity_game"></string>
+    <string name="intro_text">
+        Sudoku is a classic puzzle game where the goal is to use digits 1 through 9 to fill in all
+        rows, columns, and sub-grids&#8212;without repeating a digit. Good luck!
+    </string>
+</resources>
